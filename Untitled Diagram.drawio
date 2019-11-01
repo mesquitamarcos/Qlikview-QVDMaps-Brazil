@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-01T01:21:32.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="O-CsjkIsATHIec12KP_F" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-01T03:31:53.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="NQhbv2uOW78tmOR37Ync" version="12.1.9" type="github" pages="1">
   <diagram id="WBMUkLNgIVIr2MSPWF_K" name="Page-1">
-    <mxGraphModel dx="1280" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -52,7 +52,7 @@
           <mxGeometry x="530" y="370" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="GONr5biRRsEhFtbQjJus-15" value="Jardas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="370" width="120" height="40" as="geometry"/>
+          <mxGeometry x="370" y="370" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="GONr5biRRsEhFtbQjJus-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="GONr5biRRsEhFtbQjJus-22" target="GONr5biRRsEhFtbQjJus-3">
           <mxGeometry relative="1" as="geometry"/>
@@ -80,6 +80,18 @@
         </mxCell>
         <mxCell id="GONr5biRRsEhFtbQjJus-31" value="Penalidades" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="450" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="GONr5biRRsEhFtbQjJus-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="GONr5biRRsEhFtbQjJus-32" target="GONr5biRRsEhFtbQjJus-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GONr5biRRsEhFtbQjJus-32" value="Descida" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="GONr5biRRsEhFtbQjJus-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="GONr5biRRsEhFtbQjJus-34" target="GONr5biRRsEhFtbQjJus-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="GONr5biRRsEhFtbQjJus-34" value="Drive" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="120" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
